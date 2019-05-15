@@ -1,5 +1,5 @@
-# Your going to need a redis version for windows greater than 2.6 https://redis.io/commands/evalsha
-...
+# You're going to need a redis version for windows greater than 2.6 https://redis.io/commands/evalsha
+unfortunately stuck on a windows laptop
 
 # Background Jobs in Node.js with Redis
 
