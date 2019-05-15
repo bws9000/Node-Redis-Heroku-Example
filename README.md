@@ -1,3 +1,6 @@
+# Your going to need a redis version for windows greater than 2.6 https://redis.io/commands/evalsha
+...
+
 # Background Jobs in Node.js with Redis
 
 Redis-backed background worker example using [OptimalBits/bull](https://github.com/OptimalBits/bull) and [throng](https://github.com/hunterloftis/throng).

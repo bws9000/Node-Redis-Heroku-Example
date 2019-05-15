@@ -42,6 +42,7 @@ function start() {
     // This return value is unused in this demo application.
     return { value: "This will be stored" };
   });
+ 
 }
 
 // Initialize the clustered worker process
